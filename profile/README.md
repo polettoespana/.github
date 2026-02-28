@@ -10,7 +10,7 @@ We build web applications, custom software, and open source tools. Our work span
 
 ### Open source
 
-**[CartTrigger – Quantity Discounts](https://github.com/polettoes/carttrigger-quantity-discount-)**
+**[CartTrigger – Quantity Discounts](https://github.com/polettoes/carttrigger-quantity-discounts)**
 <br>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.
 
 **[CartTrigger – BAG](https://github.com/polettoes/carttrigger-bag)**
