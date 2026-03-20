@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/polettoespana/.github/main/profile/logo.png" width="80" alt="Poletto" /><br><br>
-  <strong>Poletto 1976</strong><br>
-  <span>Elche, Spain</span>
+
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=160&section=header&text=Poletto%201976&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Elche%2C%20Spain&descAlignY=68&descSize=14&descFontColor=aaaacc&animation=fadeIn)](https://poletto.es)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0a0a23&center=true&vCenter=true&width=480&lines=We+build+for+the+web.;Open+source+tools.;E-commerce%2C+cloud%2C+API+design.;Clarity+and+long-term+maintainability.)](https://poletto.es)
+
 </div>
-
-<br>
-
-We build web applications, custom software, and open source tools. Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
 
 ### Open source
 
@@ -24,3 +22,5 @@ We build web applications, custom software, and open source tools. Our work span
 <div align="center">
   <a href="https://poletto.es">poletto.es</a> &nbsp;·&nbsp; <a href="mailto:info@poletto.es">info@poletto.es</a>
 </div>
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=80&section=footer)](https://poletto.es)
