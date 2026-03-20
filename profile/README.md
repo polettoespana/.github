@@ -4,8 +4,6 @@
 
   <strong>Poletto 1976</strong> &nbsp;·&nbsp; <span>Elche, Spain</span>
 
-  <br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0a0a23&center=true&vCenter=true&width=480&lines=We+build+for+the+web.;Open+source+tools.;E-commerce%2C+cloud%2C+API+design.;Clarity+and+long-term+maintainability.)](https://poletto.es)
 
 </div>
