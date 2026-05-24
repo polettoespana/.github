@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/polettoespana/.github/main/profile/logo.png" width="80" alt="Poletto" /><br><br>
+<img src="https://raw.githubusercontent.com/polettoespana/.github/main/profile/logo.png" width="80" alt="Poletto" /><br><br>
 
-  <strong>Poletto 1976</strong> &nbsp;·&nbsp; <span>Elche, Spain</span>
+<strong>Poletto 1976</strong> &nbsp;·&nbsp; <span>Elche, Spain</span>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0a0a23&center=true&vCenter=true&width=480&lines=We+build+for+the+web.;Open+source+tools.;E-commerce%2C+cloud%2C+API+design.;Clarity+and+long-term+maintainability.)](https://poletto.es)
 
@@ -18,6 +18,9 @@
 
 **[CartTrigger – Holded Sync](https://github.com/polettoespana/carttrigger-holded-sync)** _(work in progress)_
 <br>WooCommerce · bidirectional sync with Holded ERP. Real-time product and stock push (WC → Holded), scheduled pull via Action Scheduler (Holded → WC). Tax-inclusive price handling, warehouse selection.
+
+**[CartTrigger – Stripe](https://github.com/polettoespana/carttrigger-stripe)** _(work in progress)_
+<br>WooCommerce · Stripe Payment Element gateway. Displays all payment methods enabled in your Stripe Dashboard — including Apple Pay, Google Pay, Klarna, Bizum and more. Express Checkout, webhooks, refunds. No Stripe SDK required.
 
 <br>
 
